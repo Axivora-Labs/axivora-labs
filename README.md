@@ -68,3 +68,10 @@ Designing reliable digital systems for business operations, productivity, and gr
 
 Contact
 Email: contact@axivoralabs@gmail.com
+
+<div align="center">
+Axivora Labs
+
+Innovating with AI. Building for impact.
+
+</div> ```
